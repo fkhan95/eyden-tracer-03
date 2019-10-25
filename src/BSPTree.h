@@ -62,4 +62,3 @@ private:
 	const int 	 				m_minTri;
 	std::shared_ptr<CBSPNode> 	m_root;
 };
-	
